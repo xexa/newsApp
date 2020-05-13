@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NewsAppExample</string>
+    <string name="news">NEWS</string>
+    <string name="name">Name</string>
+    <string name="button">Button</string>
+    <string name="search">Search</string>
+    <string name="title">TITLE</string>
+    <string name="source">SOURCE</string>
+    <string name="date">DATE</string>
+    <string name="newsapp">NEWS APP</string>
+    <string name="description">Description</string>
+</resources>
